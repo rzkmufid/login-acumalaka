@@ -159,7 +159,7 @@ input[name="password"]::placeholder {
   }
   .bLeft input[name="username"],
   input[name="password"] {
-    height: auto;
+    height: 66px;
     width: 100%;
   }
   .btn-login {
